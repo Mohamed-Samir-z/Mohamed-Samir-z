@@ -10,16 +10,18 @@ I build web projects and learn by turning ideas into working products.
 
 <p dir="rtl">أهلاً، أنا محمد. ببني مشاريع ويب وبتعلم بالتجربة والتطبيق.</p>
 
+**[View my portfolio](https://mohamed-samir-portfolio.mo2868417.workers.dev/)** · **[Contact me](https://mohamed-samir-profile.mo2868417.workers.dev/)**
+
 ### Selected projects
 
-- **[OmniGet](https://github.com/Mohamed-Samir-z/omniget)**  
-  Exploring Android support for an open-source download manager.
+- **[My contact card](https://mohamed-samir-profile.mo2868417.workers.dev/)**  
+  A personal contact-card website with quick ways to get in touch. [Code](https://github.com/Mohamed-Samir-z/Mohammed-Samir-s-profile)
+- **[Mahmoud Gaming Store](https://mahmoud-gaming-store.sparkinvite1.workers.dev/)**  
+  An Arabic gaming storefront with service pages and direct contact links. [Code](https://github.com/Mohamed-Samir-z/Mahmoud-pupg-store)
 - **[LingoForge](https://github.com/Mohamed-Samir-z/lingoforge)**  
-  An English-learning app built with JavaScript.
-- **[Mabrouk's portfolio](https://github.com/Mohamed-Samir-z/Mabrouk-s-portfolio)**  
-  A multi-page portfolio website.
-- **[Mahmoud PUBG store](https://github.com/Mohamed-Samir-z/Mahmoud-pupg-store)**  
-  A gaming storefront project.
+  An English-learning app built with JavaScript. Source code available.
+- **[OmniGet for Android](https://github.com/Mohamed-Samir-z/omniget/releases)**  
+  My Android work on an existing open-source download manager. [Code](https://github.com/Mohamed-Samir-z/omniget)
 
 ---
 
