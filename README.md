@@ -14,18 +14,20 @@ I build web projects and learn by turning ideas into working products.
 
 ### Selected projects
 
-- **[My contact card](https://mohamed-samir-profile.mo2868417.workers.dev/)**  
-  A personal contact-card website with quick ways to get in touch. [Code](https://github.com/Mohamed-Samir-z/Mohammed-Samir-s-profile)
-- **[Mahmoud Gaming Store](https://mahmoud-gaming-store.sparkinvite1.workers.dev/)**  
+- **[PicClip](https://github.com/Mohamed-Samir-z/PicClip)**
+  A local-first Android clipboard manager for images, screenshots, text, and links. Built with Kotlin. [Code](https://github.com/Mohamed-Samir-z/PicClip)
+- **[LingoForge](https://github.com/Mohamed-Samir-z/lingoforge)**
+  An English-learning web app built with JavaScript. [Code](https://github.com/Mohamed-Samir-z/lingoforge)
+- **[Mahmoud Gaming Store](https://mahmoud-gaming-store.sparkinvite1.workers.dev/)**
   An Arabic gaming storefront with service pages and direct contact links. [Code](https://github.com/Mohamed-Samir-z/Mahmoud-pupg-store)
-- **[LingoForge](https://github.com/Mohamed-Samir-z/lingoforge)**  
-  An English-learning app built with JavaScript. Source code available.
-- **[OmniGet for Android](https://github.com/Mohamed-Samir-z/omniget/releases)**  
-  My Android work on an existing open-source download manager. [Code](https://github.com/Mohamed-Samir-z/omniget)
+- **[My Contact Card](https://mohamed-samir-profile.mo2868417.workers.dev/)**
+  A personal contact-card website with quick ways to get in touch. [Code](https://github.com/Mohamed-Samir-z/Mohammed-Samir-s-profile)
+- **[OmniGet (fork)](https://github.com/Mohamed-Samir-z/omniget)**
+  A fork of an open-source download manager built with Tauri, Rust & Svelte, where I work on the Android version. [Code](https://github.com/Mohamed-Samir-z/omniget)
 
 ---
 
-**Working with:** HTML · CSS · JavaScript
+**Working with:** HTML · CSS · JavaScript · Kotlin · Git · GitHub
 
 ### GitHub activity
 
@@ -35,7 +37,7 @@ I build web projects and learn by turning ideas into working products.
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Samir-z&amp;layout=compact&amp;hide_border=false&amp;border_radius=18&amp;border_color=403822&amp;bg_color=30%2C0a0b0e%2C28251a&amp;title_color=f1cf72&amp;text_color=f3f0e8&amp;custom_title=Language%20mix">
-  <img alt="Language mix across public repositories" width="400" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Samir-z&amp;layout=compact&amp;hide_border=false&amp;border_radius=18&amp;border_color=d9c9a4&amp;bg_color=30,fffdf7,efe6d2&amp;title_color=8a641d&amp;text_color=282317&amp;custom_title=Language%20mix">
+  <img alt="Language mix across public repositories" width="400" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Samir-z&amp;layout=compact&amp;hide_border=false&amp;border_radius=18&amp;border_color=d9c9a4&amp;bg_color=30,fffdf7,efe6d2&amp;title_color=8a641d&amp;text_color=282317&amp;icon_color=aa8232&amp;custom_title=Language%20mix">
 </picture>
 
 <sub>Live cards by GitHub Readme Stats. Values may be cached.</sub>
