@@ -19,9 +19,9 @@ I build web projects and learn by turning ideas into working products.
 - **[LingoForge](https://github.com/Mohamed-Samir-z/lingoforge)**
   An English-learning web app built with JavaScript. [Code](https://github.com/Mohamed-Samir-z/lingoforge)
 - **[Mahmoud Gaming Store](https://mahmoud-gaming-store.sparkinvite1.workers.dev/)**
-  An Arabic gaming storefront with service pages and direct contact links. [Code](https://github.com/Mohamed-Samir-z/Mahmoud-pupg-store)
+  An Arabic gaming storefront with service pages and direct contact links. [Code](https://github.com/Mohamed-Samir-z/mahmoud-pubg-store)
 - **[My Contact Card](https://mohamed-samir-profile.mo2868417.workers.dev/)**
-  A personal contact-card website with quick ways to get in touch. [Code](https://github.com/Mohamed-Samir-z/Mohammed-Samir-s-profile)
+  A personal contact-card website with quick ways to get in touch. [Code](https://github.com/Mohamed-Samir-z/mohamed-samir-profile)
 - **[OmniGet (fork)](https://github.com/Mohamed-Samir-z/omniget)**
   A fork of an open-source download manager built with Tauri, Rust & Svelte, where I work on the Android version. [Code](https://github.com/Mohamed-Samir-z/omniget)
 
